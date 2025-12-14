@@ -1,6 +1,6 @@
 # Yang-Tech KiCad Templates 🛠️
 
-**Professional Hardware Design Standards for KiCad 8.0+**
+**Professional Hardware Design Standards for KiCad 9.0+**
 
 This repository contains the standard engineering templates used by **Yang-Tech-Lab** for high-frequency and IoT PCB designs.
 
